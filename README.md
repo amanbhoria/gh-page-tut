@@ -269,5 +269,6 @@ By following these steps:
 - You’ll have a **fully functional** Vite + React user site at `https://yourName.github.io/`.
 - Common mistakes (missing React plugin, wrong base path, not pushing `docs`) will be avoided.
 - Your site should automatically update whenever you rebuild (`npm run build`) and push to `main`.
+- Also You need to link your <script> in `index.html` before running `npm run build`. If your file is not linked then you won't be able to see `/assets` folder in `/docs` folder.
 
 **Enjoy your live site!**
