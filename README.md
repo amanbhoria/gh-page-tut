@@ -1,5 +1,5 @@
 
-# Deploying a Vite + React App to `yourName.github.io`
+# Deploying a Vite + React App to `Github Pages`
 
 This **README.md** describes the **entire** process of building and publishing a **Vite + React** application to **GitHub Pages** as a **user site**. You’ll also find details on **common mistakes** made during the process and how to solve them.
 
